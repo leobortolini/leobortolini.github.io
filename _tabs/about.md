@@ -16,4 +16,4 @@ If you're like me and believe that code can be a form of art (even when we're de
 
 Feel free to explore and share. Knowledge only makes sense when it's shared!
 
-Happy coding! ✨
+Happy coding!
